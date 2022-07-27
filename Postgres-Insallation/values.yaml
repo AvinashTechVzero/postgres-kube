@@ -12,8 +12,8 @@ secret: {}
   # POSTGRES_PASSWORD: "password"
 
 env: 
-  POSTGRES_USER: "postgres"
-  POSTGRES_PASSWORD: "l5RrpH0anb"
+  # POSTGRES_USER: "postgres"
+  # POSTGRES_PASSWORD: "l5RrpH0anb"
   # POSTGRES_DB: ""
 
 service:
